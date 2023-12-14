@@ -5,14 +5,9 @@ Comecei os estudos na área da programação em 2020 em uma formação inicial e
 Determinação e foco me ajudaram a estar onde estou. Prezo por habilidades de comunicação, trabalho em equipe e gestão do tempo tanto quanto habilidades técnicas. Busco sempre conhecimento e sou bastante curioso para aprender mais do que já sei.
 
 Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa no trabalho, visando ser produtivo e aprimorar minhas habilidades técnicas. Tenho características autodidatas, mas sem dispensar ajuda de pessoas mais sábias. Comecei a trabalhar desde os 17 anos e isso me ajudou a crescer como pessoa, como profissional e ter habilidades que me ajudam muito até hoje.
-#### Áreas de atuação:
-• 🔱 Vidraceiro <br> 
-• 🔱 Barbeiro <br>
-• 📝 Montador de móveis<br>
-#### Estudos:
-• 📝 Estudante de Inglês <br>
-• 📝 Estudante Full Stack <br>
-• 📝 Atualmente, focado em Java <br>
+|Áreas de atuação|Estudos|Formação Acadêmica|
+|----|----|----|
+|• 🔱 Vidraceiro <br>• 🔱 Barbeiro <br>• 📝 Montador de móveis<br>|• 📝 Estudante de Inglês <br>• 📝 Estudante Full Stack <br>• 📝 Atualmente, focado em Java <br>|• 🔱 IFRN - 2020 Instituto Federal do Rio Grande do Norte (Formação inicial e continuada em programação de sistemas) <br> |• 🔱 Recode Pro - 2024 Formação em programação Full Stack em Desenvolvimento Web <br>
 
 <img align="center">
 <div align="center">
@@ -31,7 +26,7 @@ Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa n
 </picture>
 </div>
 <div style="display: inline_block" align = "center" "text-align: center"><br> 
-  <h2> Learning </h2>
+  <h2> Skills </h2>
   <img align="center" alt="Ste-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="center" alt="Ste-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Ste-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -44,7 +39,7 @@ Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa n
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ste-visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">ㅤ ㅤㅤㅤ ㅤ ㅤㅤ ㅤㅤ ㅤ ㅤ
 
-  <h2> Contact me </h2>
+  <h2> Entre em contato </h2>
   <a href="https://www.linkedin.com/in/heitor-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href =mailto:heitorcapimentel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/heeitorpimentel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
