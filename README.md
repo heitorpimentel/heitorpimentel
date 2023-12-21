@@ -8,7 +8,7 @@ Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa n
 
 |Áreas de atuação|Estudos|Formação Acadêmica|
 | --- | --- | --- |
-|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br>|• 📝 Estudante de Inglês <br>• 📝 Estudante Full Stack <br>• 📝 Atualmente, focado em Java <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack
+|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br> • 💻 Desenvolvedor Web|• 📝 Estudante de Inglês <br>• 📝 Estudante Full Stack <br>• 📝 Atualmente, focado em Java <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack
 
 <img align="center">
 <div align="center">
