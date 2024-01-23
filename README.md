@@ -1,4 +1,4 @@
-# Olá Mundo! 👋 Eu me chamo Heitor
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+Heitor+Pimentel)](https://git.io/typing-svg)
 Sou um Desenvolvedor Full-Stack, entusiasmado e apaixonado por tecnologia. 
 Comecei os estudos na área da programação em 2020 em uma formação inicial e continuada pelo IFRN. No início de 2023 dei o arranque para embarcar de vez na área estudando por conta própria e depois passando em um processo seletivo pela Recode onde mais de 15 mil pessoas se inscreveram.
 
