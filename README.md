@@ -6,9 +6,9 @@ Determinação e foco me ajudaram a estar onde estou. Prezo por habilidades de c
 
 Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa no trabalho, visando ser produtivo e aprimorar minhas habilidades técnicas. Tenho características autodidatas, mas sem dispensar ajuda de pessoas mais sábias. Comecei a trabalhar desde os 17 anos e isso me ajudou a crescer como pessoa, como profissional e ter habilidades que me ajudam muito até hoje.
 
-|Áreas de atuação|Estudos|Formação Acadêmica|
-| --- | --- | --- |
-|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br> • 💻 Desenvolvedor Web|• 📝 Estudante de Inglês <br>• 📝 Estudante Full Stack <br>• 📝 Atualmente, focado em Java <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack
+|Áreas de atuação|Estudos|Formação Acadêmica|Skills|
+| --- | --- | --- | --- |
+|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br> • 💻 Desenvolvedor Web|• 📝 Estudante de Inglês <br>• 📝 Dev Full Stack <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack| • Frontend: <br>• Javascript, React, NextJS, Typescript, HTML, CSS <br> • Backend: <br> • NodeJS, Typescript com Node, Java (básico), C# (básico) <br> • DevOps: <br> • CI/CD (básico)
 
 <img align="center">
 <div align="center">
