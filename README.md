@@ -8,7 +8,7 @@ Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa n
 
 |Áreas de atuação|Estudos|Formação Acadêmica|Skills|
 | --- | --- | --- | --- |
-|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br> • 💻 Desenvolvedor Web|• 📝 Estudante de Inglês <br>• 📝 Dev Full Stack <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack| • Frontend: <br>• Javascript, React, NextJS, Typescript, HTML, CSS <br> • Backend: <br> • NodeJS, Typescript com Node, Java (básico), C# (básico) <br> • DevOps: <br> • CI/CD (básico)
+|• 🛠️ Vidraceiro <br>• ✂️ Barbeiro <br>• 🛠️ Montador de móveis<br> • 💻 Desenvolvedor Web|• 📝 Estudante de Inglês <br>• 📝 Dev Full Stack <br>|• 🎓 IFRN - 2020 Instituto Federal do Rio Grande do Norte (FIC) <br> • 🎓 Recode Pro - 2024 Desenvolvimento Full Stack| **Frontend:** <br>• Javascript, React, NextJS, Typescript, HTML, CSS <br> **Backend:** <br> • NodeJS, Typescript com Node, Java (básico), C# (básico) <br> **DevOps:** <br> • CI/CD (básico)
 
 <img align="center">
 <div align="center">
